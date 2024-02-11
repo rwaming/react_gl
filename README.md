@@ -8,4 +8,8 @@ I got inspired about an interface by games I had played, especially simulator ty
 
 ## Interface
 
+.
+
 ## Story
+
+.
